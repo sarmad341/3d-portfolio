@@ -31,7 +31,7 @@ const words = [
 const counterItems = [
   { value: 2, suffix: "+", label: "Years of Experience" },
   { value: 10, suffix: "+", label: "Satisfied Clients" },
-  { value: 108, suffix: "+", label: "Completed Projects" },
+  { value: 10, suffix: "+", label: "Completed Projects" },
 ];
 
 const logoIconsList = [
@@ -41,9 +41,7 @@ const logoIconsList = [
   {
     imgPath: "/images/logos/company-logo-2.png",
   },
-  {
-    imgPath: "/images/logos/company-logo-3.png",
-  },
+
   {
     imgPath: "/images/logos/company-logo-4.png",
   },
@@ -169,19 +167,6 @@ const expCards = [
       "Led the development of Docker's web applications, focusing on scalability.",
       "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
       "Contributed to open-source projects that were used with the Docker ecosystem.",
-    ],
-  },
-  {
-    review:
-      "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-    imgPath: "/images/exp3.png",
-    logoPath: "/images/logo3.png",
-    title: "React Native Developer",
-    date: "March 2019 - May 2020",
-    responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
     ],
   },
 ];
